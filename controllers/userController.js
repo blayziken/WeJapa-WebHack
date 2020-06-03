@@ -1,0 +1,9 @@
+// 1. GET ALL USERS
+
+// 2. CREATE USER
+
+// 3. GET USER
+
+// 4. UPDATE USER
+
+// 5. DELETE USER
